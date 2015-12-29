@@ -4,12 +4,14 @@ using namespace std;
 #define NEWLINE '\n'
 
 void printVariables(int a, int b) {
-	cout << "a: ";
-	cout << a;
+	cout << "a: " << a << NEWLINE;
+	cout << "b: " << b << NEWLINE;
+	cout << "-------" << NEWLINE;
+	/* cout << a;
 	cout << NEWLINE;
 	cout << "b: ";
 	cout << b;
-	cout << NEWLINE;
+	cout << NEWLINE; */
 }
 
 

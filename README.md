@@ -9,6 +9,11 @@ Project's main goal goes step by step on C++ tutorial
 1. Compilers
 2. Structure of a program
 3. Variables and types
+4. Constants
+5. Assignment and operators
+6. Basic Input and Output
+
+## Basic C++
 
 ### Compilers 
 Compiler	Platform				Command
@@ -26,9 +31,15 @@ Introduction to strings:  compound vs fundamental types
 ### Constants (constants.cpp)
 Pre processor definitions
 
-
 ### Assignment and operators (assignment.cpp)
 Assignment operator
 Compound assignment
 Increment and decrement
 Relational and comparison operators: short-circuit evaluation, comma operator, conditional ternary operator, explicit type casting operator, sizeof
+
+### Basic Input and Output
+Chaining insertion
+Standard output (COUT)
+Standard input (CIN): getLine, stringstream
+
+## Program structure
