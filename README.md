@@ -22,3 +22,13 @@ Identifiers: Reserved words, C++ is case sensitive
 Fundamental datatypes: Character, numerical integers, floating-point and boolean
 C++ is a strongly - typed language
 Introduction to strings:  compound vs fundamental types
+
+### Constants (constants.cpp)
+Pre processor definitions
+
+
+### Assignment and operators (assignment.cpp)
+Assignment operator
+Compound assignment
+Increment and decrement
+Relational and comparison operators: short-circuit evaluation, comma operator, conditional ternary operator, explicit type casting operator, sizeof
