@@ -7,17 +7,20 @@ Project's main goal goes step by step on C++ tutorial
 
 ## Tutorial 
 1. Compilers
-2. Structure of a program
-3. Variables and types
-4. Constants
-5. Assignment and operators
-6. Basic Input and Output
-
-## Basic C++
+- Basic C++
+	2. Structure of a program
+	3. Variables and types
+	4. Constants
+	5. Assignment and operators
+	6. Basic Input and Output
+- Program structure
+	7. 
 
 ### Compilers 
 Compiler	Platform				Command
 GCC			Linux, among others...	g++ -std=c++0x example.cpp -o example_program
+
+## Basic C++
 
 ### Structure of a program (helloWorld.cpp)
 Hello World
@@ -43,3 +46,4 @@ Standard output (COUT)
 Standard input (CIN): getLine, stringstream
 
 ## Program structure
+Statements and flow control: Selection statements (if - else and switch), Iteration Statements (while, do-while, for-loop, range based loop), Jump statements (break, continue, goto)
