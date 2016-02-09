@@ -1,0 +1,7 @@
+
+	How to compile on C++
+
+		g++ -Wall -W -Werror main.cpp -o helloworldcpp
+
+		g++ -Wall -W -Werror (source_code) -o (executable_code)
+		
